@@ -1,1 +1,1 @@
-console.log("Portfolio loaded");
+alert("Welcome to my portfolio");
